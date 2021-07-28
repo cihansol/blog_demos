@@ -66,6 +66,7 @@ namespace Sample_Application
             else
                 Console.WriteLine("Incorrect passphrases entered");
 
+            Console.ReadKey();
         }
     }
 }
