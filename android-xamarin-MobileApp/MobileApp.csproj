@@ -51,7 +51,7 @@
     <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
-    <BundleAssemblies>false</BundleAssemblies>
+    <BundleAssemblies>true</BundleAssemblies>
     <AndroidKeyStore>false</AndroidKeyStore>
     <AndroidSupportedAbis />
     <AndroidSigningKeyStore>C:\Users\cihan\AppData\Local\Xamarin\Mono for Android\Keystore\TestSign\TestSign.keystore</AndroidSigningKeyStore>
